@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects and Learn More**
 
-- 👨‍💻 All of my projects are available at [https://manpreet-portfolio-app.netlify.app/](https://manpreets-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manpreet-portfolio-app.netlify.app/](https://manpreet-portfolio-app.netlify.app/)
 
 - 💬 Ask me about **ReactJS,MongoDB,ExpressJS,NodeJS,JavaScript,Java**
 
