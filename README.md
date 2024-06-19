@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreet3033&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet3033" /> </p>
 
-- 🔭 I’m currently working on [DevOverflow coder's community like StackOverflow a Full Stack project in NextJS14]([https://github.com/Manpreet3033/DevOverflow])
+- 🔭 I’m currently working on [New Personal Portfolio Project using NextJS14]([https://github.com/Manpreet3033/DevOverflow])
 
-- 🌱 I’m currently learning **MERN Stack and Data Structures and Algorithms**
+- 🌱 I’m currently learning **MERN Stack, NextJS14 and Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects and Learn More**
 
-- 👨‍💻 All of my projects are available at [https://manpreet-portfolio-app.netlify.app/](https://manpreet-portfolio-app.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Personal Portfolio](https://manpreets-portfolio.vercel.app)
 
-- 💬 Ask me about **ReactJS,MongoDB,ExpressJS,NodeJS,JavaScript,Java**
+- 💬 Ask me about **NextJS,ReactJS,MongoDB,ExpressJS,NodeJS,JavaScript,Java**
 
 - 📫 How to reach me **manpreetkamboj60.net@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PEdzAd8DJftDt34PoXn7mGg-M4OA0h27-eGql7ejUpg/edit](https://docs.google.com/document/d/1PEdzAd8DJftDt34PoXn7mGg-M4OA0h27-eGql7ejUpg/edit)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1uAZhlSsPNsgKROm0dJIs7m0UMTCW6Ta_YmrIJ6AjMoc/edit)
 
 - ⚡ Fun fact **I think I am Funny Because i deal with Bugs everyday 😂**
 
