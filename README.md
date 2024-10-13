@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreet3033&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet3033" /> </p>
 
-- 🔭 I’m currently working on [New Personal Portfolio Project using NextJS14]([https://github.com/Manpreet3033/DevOverflow])
+- 🔭 I’m currently working as an **Software Engineer Trainee at Salescode.ai**
 
-- 🌱 I’m currently learning **MERN Stack, NextJS14 and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Flutter,SwiftUI, UIKit and Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects and Learn More**
 
