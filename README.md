@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreet3033&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet3033" /> </p>
 
-- 🔭 I’m currently working as an **Software Engineer Trainee at Salescode.ai**
+- 🔭 Former **Software Engineer Trainee at Salescode.ai**
 
 - 🌱 I’m currently learning **Flutter,SwiftUI, UIKit and Data Structures and Algorithms**
 
