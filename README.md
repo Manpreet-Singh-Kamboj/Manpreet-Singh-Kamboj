@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/manpreet-singh-01-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manpreet-singh-01-" height="30" width="40" /></a>
 <a href="https://instagram.com/01_manpreetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="01_manpreetsingh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/storm gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="storm gaming" height="30" width="40" /></a>
+<a href="www.youtube.com/@stormgaming4442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="storm gaming" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manpreetsingh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manpreetsingh2003" height="30" width="40" /></a>
 </p>
 
