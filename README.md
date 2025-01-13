@@ -7,7 +7,7 @@
 
 - 🔭 Former **Software Engineer Trainee at Salescode.ai**
 
-- 🌱 I’m currently learning **Flutter,SwiftUI, UIKit and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects and Learn More**
 
