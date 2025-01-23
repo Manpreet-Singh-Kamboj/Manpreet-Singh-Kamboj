@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manpreet-singh-kamboj&show_icons=true&locale=en" alt="manpreet-singh-kamboj" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manpreet-Singh-Kamboj)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Manpreet-Singh-Kamboj" alt="GitHub Streak" /></a>
