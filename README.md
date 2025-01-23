@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manpreet-singh-kamboj&show_icons=true&locale=en" alt="manpreet-singh-kamboj" /></p>
 
-<p><img src="https://streak-stats.demolab.com/?user=Manpreet-Singh-Kamboj" alt="Manpreet Singh Streak" /></p>
+<p><img src="https://nirzak-streak-stats.vercel.app/?user=Manpreet-Singh-Kamboj" alt="Manpreet Singh Streak" /></p>
