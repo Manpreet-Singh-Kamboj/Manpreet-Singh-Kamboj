@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreet-singh-kamboj&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet-singh-kamboj" /> </p>
 
-- 🔭 Former **Software Engineer Trainee at Salescode.ai**
+- 🔭 Ex **Software Engineer Trainee at Salescode.ai**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
