@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **manpreetkamboj60.net@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XhitxsjFwG0a3L4K5qdqMm0qpglIbzBE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15Z9X6Z69WUicHfmK1XU6-kSm3lEtHuax/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am Funny Because i deal with Bugs everyday 😂**
 
