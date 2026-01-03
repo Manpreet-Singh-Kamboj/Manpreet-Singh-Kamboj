@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Portfolio](https://manpreets-portfolio.vercel.app)
 
-- 💬 Ask me about **NextJS,ReactJS,MongoDB,ExpressJS,NodeJS,JavaScript,Java**
+- 💬 Ask me about **React Native,NextJS,ReactJS,MongoDB,ExpressJS,NodeJS,JavaScript,Java,PostgreSQL,SQL,Prisma,Drizzle,Docker**
 
 - 📫 How to reach me **manpreetkamboj60.net@gmail.com**
 
