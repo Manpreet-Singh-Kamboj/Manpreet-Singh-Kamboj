@@ -103,10 +103,6 @@ I am currently seeking **CO-OP / Internship opportunities** where I can contribu
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manpreet-Singh-Kamboj&layout=compact" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Manpreet-Singh-Kamboj" />
 </p>
 
