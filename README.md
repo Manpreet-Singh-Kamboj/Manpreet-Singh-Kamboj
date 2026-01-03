@@ -1,41 +1,137 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)]([https://manpreet-portfolio.vercel.app/](https://manpreets-portfolio.vercel.app))
-<h1 align="center">Hi 👋, I'm Manpreet Singh</h1>
-<h3 align="center">A passionate Full Stack developer from Canada</h3>
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400" align="right" alt="Coding">
+<h1 align="center">Manpreet Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreet-singh-kamboj&label=Profile%20views&color=0e75b6&style=flat" alt="manpreet-singh-kamboj" /> </p>
+<h3 align="center">
+Full Stack Developer • Backend-Focused • Web & Mobile Systems
+</h3>
 
-- 🎓 **MAC COOP Student at Wilfrid Laurier University**
-  
-- 🔭 Ex **Software Engineer Intern at Salescode.ai**
-
-- 🌱 I’m currently learning **Containerization using Docker**
-
-- 👯 I’m looking to collaborate on **Full Stack Projects and Learn More**
-
-- 👨‍💻 All of my projects are available at [My Personal Portfolio](https://manpreets-portfolio.vercel.app)
-
-- 💬 Ask me about **React Native,NextJS,ReactJS,MongoDB,ExpressJS,NodeJS,JavaScript,Java,PostgreSQL,SQL,Prisma,Drizzle,Docker**
-
-- 📫 How to reach me **manpreetkamboj60.net@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15Z9X6Z69WUicHfmK1XU6-kSm3lEtHuax/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think I am Funny Because i deal with Bugs everyday 😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manpreet-singh-01-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manpreet-singh-01-" height="30" width="40" /></a>
-<a href="https://instagram.com/01_manpreetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="01_manpreetsingh" height="30" width="40" /></a>
-<a href="www.youtube.com/@stormgaming4442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="storm gaming" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manpreetsingh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manpreetsingh2003" height="30" width="40" /></a>
+<p align="center">
+🎓 MAC CO-OP Student @ Wilfrid Laurier University <br/>
+💼 Former Software Engineer Intern @ Salescode.ai <br/>
+🇨🇦 Canada | Actively Seeking CO-OP / Internship Opportunities
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://linkedin.com/in/manpreet-singh-01-">LinkedIn</a> ·
+<a href="https://manpreets-portfolio.vercel.app">Portfolio</a> ·
+<a href="https://github.com/Manpreet-Singh-Kamboj">GitHub</a> ·
+<a href="https://www.leetcode.com/manpreetsingh2003">LeetCode</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manpreet-singh-kamboj&show_icons=true&locale=en&layout=compact" alt="manpreet-singh-kamboj" /></p>
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manpreet-singh-kamboj&show_icons=true&locale=en" alt="manpreet-singh-kamboj" /></p>
+I am a **Full Stack Developer with strong backend expertise**, experienced in building **scalable, real-time systems** and **production-grade web & mobile applications**.
 
-<p><img src="https://nirzak-streak-stats.vercel.app/?user=Manpreet-Singh-Kamboj" alt="Manpreet Singh Streak" /></p>
+I have hands-on experience working with Node.js, TypeScript, PostgreSQL, Redis, Docker, and modern frontend frameworks. My projects emphasize backend architecture, performance optimization, and clean architecture, with real-time communication implemented in Qure.
+
+I previously worked as a **Software Engineer Intern at Salescode.ai**, contributing to real production features and collaborating in an agile development environment.
+
+I am currently seeking **CO-OP / Internship opportunities** where I can contribute immediately and continue developing strong backend and system design skills.
+
+## 🚀 Featured Projects
+
+### 🔹 Qure – Real-Time Queue Management System
+**Backend-heavy, real-time system for clinic queue & token management**
+
+- Built a **real-time backend system** using WebSockets for live queue and token updates
+- Designed secure **role-based access control** (Admin, Clinic Staff, Patient)
+- Used **Redis caching** and **BullMQ background jobs** for asynchronous image uploads and performance optimization
+- Implemented persistent data storage using **PostgreSQL + Prisma ORM**
+- Fully **Dockerized** backend using Docker & Docker Compose for deployment
+- Currently developing a **React Native mobile app** with role-based screens and real-time updates
+
+**Backend Stack:**  
+`Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ` `WebSockets` `Docker`
+
+**Frontend (In Progress):**  
+`React Native`
+
+---
+
+### 🔹 MyTrackr – Receipt & Budget Manager (Android)
+**Android application for receipt scanning, expense tracking, and personal budget management**
+
+- Built a native Android app using **Java & Android SDK** with Firebase Authentication (Google SSO)
+- Integrated **Google ML Kit OCR** for real-time receipt scanning from camera and gallery images
+- Extracted structured data (store name, items, prices) and standardized receipts across **10+ formats**
+- Implemented budget tracking with automatic expense categorization, monthly limits, alerts, and CSV export for tax records
+
+**Tech Stack:**  
+`Java` `Android SDK` `Firebase Auth` `Firestore` `Firebase Storage` `ML Kit OCR`
+
+---
+
+### 🔹 Study Adda – Full-Stack EdTech Platform
+**Scalable MERN-based learning platform with student & instructor workflows**
+
+- Architected a **3-tier MERN application** using RESTful APIs and MongoDB for scalability
+- Implemented **JWT authentication**, role-based access, and Razorpay payment gateway integration
+- Built advanced course filtering across **10+ categories** with optimized API performance (~2s page loads)
+- Developed instructor dashboard with CRUD operations, **Chart.js analytics**, revenue tracking, and dynamic discount rules
+- Integrated **Cloudinary video streaming** for seamless content delivery
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay` `Cloudinary`
+
+---
+
+## 🧠 Technical Skills
+
+### Backend & Systems
+- Node.js, Express.js, TypeScript
+- REST APIs, WebSockets, Background Jobs
+- Authentication, RBAC, Caching
+
+### Databases & ORM
+- PostgreSQL, MongoDB, SQL, Firestore
+- Prisma ORM
+- Redis
+
+### Mobile & Frontend
+- Next.js, React, React Native
+- Android (Java, Android SDK)
+
+### DevOps & Tools
+- Docker, Docker Compose
+- Firebase, Cloudinary
+- Git, CI/CD fundamentals
+
+### Programming Languages
+- Java, JavaScript, TypeScript
+- Python, C++
+  
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manpreet-Singh-Kamboj&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manpreet-Singh-Kamboj" />
+</p>
+
+---
+
+## 🎯 What I’m Looking For
+
+I am actively seeking **CO-OP / Internship roles** in:
+- Backend Development
+- Full Stack Development
+- Mobile Development (React Native / Android / iOS)
+
+I’m excited to work on teams where I can:
+- Build scalable, real-world systems
+- Write production-quality code
+- Learn from experienced engineers
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **manpreetkamboj60.net@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/manpreet-singh-01-
+- 🌐 Portfolio: https://manpreets-portfolio.vercel.app
+
+---
+
+⚡ *Fun fact:* I enjoy debugging real-time systems more than writing them 😄
