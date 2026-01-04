@@ -33,11 +33,11 @@ I am currently seeking **CO-OP / Internship opportunities** where I can contribu
 **Backend-heavy, real-time system for clinic queue & token management**
 
 - Built a **real-time backend system** using WebSockets for live queue and token updates
-- Designed secure **role-based access control** (Admin, Clinic Staff, Patient)
+- Implemented secure **role-based access control (RBAC)** for Admin, Clinic Staff, and Patient
 - Used **Redis caching** and **BullMQ background jobs** for asynchronous image uploads and performance optimization
 - Implemented persistent data storage using **PostgreSQL + Prisma ORM**
 - Fully **Dockerized** backend using Docker & Docker Compose for deployment
-- Currently developing a **React Native mobile app** with role-based screens and real-time updates
+- Developed a **React Native** mobile application with role-based screens for Admin, Staff, and Patients, providing real-time, consistent queue synchronization for staff and patients via WebSockets
 
 **Backend Stack:**  
 `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ` `WebSockets` `Docker`
