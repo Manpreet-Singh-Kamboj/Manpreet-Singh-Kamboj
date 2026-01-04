@@ -40,10 +40,10 @@ I am currently seeking **CO-OP / Internship opportunities** where I can contribu
 - Developed a **React Native** mobile application with role-based screens for Admin, Staff, and Patients, providing real-time, consistent queue synchronization for staff and patients via WebSockets
 
 **Backend Stack:**  
-`Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ` `WebSockets` `Docker`
+`Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ` `WebSockets (Socket.io)` `Docker`
 
-**Frontend (In Progress):**  
-`React Native`
+**Frontend Stack:**  
+`React Native` `WebSockets (Socket.io)`
 
 ---
 
