@@ -21,7 +21,7 @@ Full Stack Developer • Backend-Focused • Web & Mobile Systems
 
 I am a **Full Stack Developer with strong backend expertise**, experienced in building **scalable, real-time systems** and **production-grade web & mobile applications**.
 
-I have hands-on experience working with Node.js, TypeScript, PostgreSQL, Redis, Docker, and modern frontend frameworks. My projects emphasize backend architecture, performance optimization, and clean architecture, with real-time communication implemented in Qure.
+I have hands-on experience working with Node.js, TypeScript, PostgreSQL, Redis, Docker, and modern frontend frameworks. My projects emphasize backend architecture, performance optimization, and clean architecture, with real-time communication using Websockets.
 
 I previously worked as a **Software Engineer Intern at Salescode.ai**, contributing to real production features and collaborating in an agile development environment.
 
