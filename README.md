@@ -78,7 +78,7 @@ I am currently seeking **CO-OP / Internship opportunities** where I can contribu
 
 ### Backend & Systems
 - Node.js, Express.js, TypeScript
-- REST APIs, WebSockets, Background Jobs
+- REST APIs, WebSockets (Socket.io), Background Jobs (BullMQ, Redis)
 - Authentication, RBAC, Caching
 
 ### Databases & ORM
