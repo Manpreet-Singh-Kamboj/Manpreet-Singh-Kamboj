@@ -12,7 +12,7 @@ Full Stack Developer • Backend-Focused • Web & Mobile Systems
 
 <p align="center">
 <a href="https://linkedin.com/in/manpreet-singh-01-">LinkedIn</a> ·
-<a href="https://manpreets-portfolio.vercel.app">Portfolio</a> ·
+<a href="https://msinghdev.vercel.app">Portfolio</a> ·
 <a href="https://github.com/Manpreet-Singh-Kamboj">GitHub</a> ·
 <a href="https://www.leetcode.com/manpreetsingh2003">LeetCode</a>
 </p>
@@ -149,7 +149,7 @@ I’m excited to work on teams where I can:
 
 - 📧 Email: **manpreetkamboj60.net@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/manpreet-singh-01-
-- 🌐 Portfolio: https://manpreets-portfolio.vercel.app
+- 🌐 Portfolio: https://msinghdev.vercel.app
 
 ---
 
