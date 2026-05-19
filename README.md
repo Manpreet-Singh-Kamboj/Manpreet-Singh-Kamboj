@@ -148,7 +148,7 @@ I’m excited to work on teams where I can:
 ## 📫 Contact
 
 - 📧 Email: **manpreetkamboj60.net@gmail.com**
-- 💼 LinkedIn: [https://linkedin.com/in/manpreet-singh-01-](https://www.linkedin.com/in/manpreet-swe)
+- 💼 LinkedIn: [https://linkedin.com/in/manpreet-swe](https://www.linkedin.com/in/manpreet-swe)
 - 🌐 Portfolio: [https://msinghdev.vercel.app](https://msinghdev.vercel.app)
 
 ---
