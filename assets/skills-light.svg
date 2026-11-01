@@ -1,0 +1,10 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The tools I reach for.">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .eye { font-size: 22px; font-weight: 600; letter-spacing: 2px; fill: #0071e3; }
+    .h { font-size: 46px; font-weight: 700; letter-spacing: -1.2px; fill: #1d1d1f; }
+    .g { fill: #86868b; }
+  </style>
+  <text class="eye" x="450" y="60">SKILLS</text>
+  <text class="h" x="450" y="120">The tools<tspan class="g"> I reach for.</tspan></text>
+</svg>

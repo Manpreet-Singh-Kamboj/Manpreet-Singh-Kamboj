@@ -1,1 +1,10 @@
-
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Backend first. Full stack too.">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .eye { font-size: 22px; font-weight: 600; letter-spacing: 2px; fill: #2997ff; }
+    .h { font-size: 46px; font-weight: 700; letter-spacing: -1.2px; fill: #f5f5f7; }
+    .g { fill: #a1a1a6; }
+  </style>
+  <text class="eye" x="450" y="60">ABOUT</text>
+  <text class="h" x="450" y="120">Backend first.<tspan class="g"> Full stack too.</tspan></text>
+</svg>
