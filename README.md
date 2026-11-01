@@ -1,156 +1,174 @@
-<h1 align="center">Manpreet Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Backend-Focused • Web & Mobile Systems
-</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img src="assets/header-light.svg" alt="Manpreet Singh. Software engineer building backends, data pipelines and the apps on top." width="100%" />
+</picture>
 
-<p align="center">
-🎓 MAC CO-OP Student @ Wilfrid Laurier University <br/>
-💼 Former Software Engineer Intern @ Salescode.ai <br/>
-🇨🇦 Canada | Actively Seeking CO-OP / Internship Opportunities
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/manpreet-swe">LinkedIn</a> ·
-<a href="https://msinghdev.vercel.app">Portfolio</a> ·
-<a href="https://github.com/Manpreet-Singh-Kamboj">GitHub</a> ·
+<a href="https://msinghdev.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/manpreet-swe">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:manpreet.swe@outlook.com">Email</a> &nbsp;·&nbsp;
 <a href="https://www.leetcode.com/manpreetsingh2003">LeetCode</a>
-</p>
 
-## 👋 About Me
+<br/><br/>
 
-I am a **Full Stack Developer with strong backend expertise**, experienced in building **scalable, real-time systems** and **production-grade web & mobile applications**.
+<sub>
+<a href="#about">About</a> &nbsp;·&nbsp;
+<a href="#results">Results</a> &nbsp;·&nbsp;
+<a href="#experience">Experience</a> &nbsp;·&nbsp;
+<a href="#projects">Projects</a> &nbsp;·&nbsp;
+<a href="#skills">Skills</a> &nbsp;·&nbsp;
+<a href="#contact">Contact</a>
+</sub>
 
-I have hands-on experience working with Node.js, TypeScript, PostgreSQL, Redis, Docker, and modern frontend frameworks. My projects emphasize backend architecture, performance optimization, and clean architecture, with real-time communication using Websockets.
+</div>
 
-I previously worked as a **Software Engineer Intern at Salescode.ai**, contributing to real production features and collaborating in an agile development environment.
+<br/>
 
-I am currently seeking **CO-OP / Internship opportunities** where I can contribute immediately and continue developing strong backend and system design skills.
+<a name="about"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+  <img src="assets/about-light.svg" alt="About" width="100%" />
+</picture>
+</div>
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🔹 Qure – Real-Time Queue Management System
-**Backend-heavy, real-time system for clinic queue & token management**
+Master of Applied Computing candidate at Wilfrid Laurier University,<br/>graduating April 2027 with a GPA of 11.34 / 12.
 
-- Built a **real-time backend system** using WebSockets for live queue and token updates
-- Implemented secure **role-based access control (RBAC)** for Admin, Clinic Staff, and Patient
-- Used **Redis caching** and **BullMQ background jobs** for asynchronous image uploads and performance optimization
-- Implemented persistent data storage using **PostgreSQL + Prisma ORM**
-- Fully **Dockerized** backend using Docker & Docker Compose for deployment
-- Developed a **React Native** mobile application with role-based screens for Admin, Staff, and Patients, providing real-time, consistent queue synchronization for staff and patients via WebSockets
+1.5+ years of co-op and internship work across Java and Node.js backends,<br/>React, Vue and Svelte front ends, and cloud data pipelines.
 
-**Backend Stack:**  
-`Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` `BullMQ` `WebSockets (Socket.io)` `Docker`
+AWS Certified Cloud Practitioner.
 
-**Frontend Stack:**  
-`React Native` `WebSockets (Socket.io)`
+</div>
 
----
+<br/>
 
-### 🔹 MyTrackr – Receipt & Budget Manager (Android)
-**Android application for receipt scanning, expense tracking, and personal budget management**
+<a name="results"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/results-dark.svg" />
+  <img src="assets/results-light.svg" alt="The work, in numbers." width="100%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg" />
+  <img src="assets/impact-light.svg" alt="250K+ daily POS transactions, 1,100+ stores in the pipeline, 100K+ sales reps reached, image uploads under 0.5s down from 13s" width="560" />
+</picture>
+</div>
 
-- Built a native Android app using **Java & Android SDK** with Firebase Authentication (Google SSO)
-- Integrated **Google ML Kit OCR** for real-time receipt scanning from camera and gallery images
-- Extracted structured data (store name, items, prices) and standardized receipts across **10+ formats**
-- Implemented budget tracking with automatic expense categorization, monthly limits, alerts, and CSV export for tax records
+<br/>
 
-**Tech Stack:**  
-`Java` `Android SDK` `Firebase Auth` `Firestore` `Firebase Storage` `ML Kit OCR`
+<a name="experience"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg" />
+  <img src="assets/experience-light.svg" alt="Production code, real teams." width="100%" />
+</picture>
+</div>
 
----
+### Home Hardware
+**IT eCommerce Co-op, Full Stack**<br/>
+<sub>May – Dec 2026 · St. Jacobs, ON · Current</sub>
 
-### 🔹 Study Adda – Full-Stack EdTech Platform
-**Scalable MERN-based learning platform with student & instructor workflows**
+- Shipped 10+ user stories in 1.5 months for a new Pro Dashboard, with reusable Vue.js and Svelte components for data tables and filtering
+- Built PySpark ETL pipelines on Microsoft Fabric (Azure) that ingest 250K+ daily POS transactions from 1,100+ stores
+- Designed a cross-cloud sync from a Fabric Delta Table to Cloud SQL, incremental by timestamp, through a serverless GCP Cloud Function
+- Documented the legacy Reassignment Shipments codebase for future work and production troubleshooting
 
-- Architected a **3-tier MERN application** using RESTful APIs and MongoDB for scalability
-- Implemented **JWT authentication**, role-based access, and Razorpay payment gateway integration
-- Built advanced course filtering across **10+ categories** with optimized API performance (~2s page loads)
-- Developed instructor dashboard with CRUD operations, **Chart.js analytics**, revenue tracking, and dynamic discount rules
-- Integrated **Cloudinary video streaming** for seamless content delivery
+### Wilfrid Laurier University
+**Instructional Assistant, System Programming**<br/>
+<sub>Jan – Apr 2026 · Waterloo, ON</sub>
 
-**Tech Stack:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay` `Cloudinary`
+- Mentored 50+ students in Shell scripting and C, reviewing labs for code quality, memory management and readability
 
----
+### CoreAI Technologies
+**Full-Stack Software Developer**<br/>
+<sub>May – Oct 2025 · Remote</sub>
 
-## 🧠 Technical Skills
+- Built and component-tested a health analytics dashboard with Next.js, React and TanStack Query
+- Created a categorization system for 400+ biomarkers that simplified backend retrieval and frontend navigation
 
-### Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![WebSockets](https://img.shields.io/badge/WebSockets-008000?style=for-the-badge&logo=websocket&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logoColor=green)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-1A73E8?style=for-the-badge&logo=oauth&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### SalesCode.ai
+**Software Engineer Intern**<br/>
+<sub>Jun – Dec 2024 · Gurugram, India</sub>
 
-### Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FC3C3C?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-1A1A1A?style=for-the-badge&logo=drizzle&logoColor=white)
+- Built Spring Boot REST APIs on auto-scaling AWS EC2 and S3 serving geo-targeted banners to 100K+ sales reps, with a 15% lift in click-through rate
+- Cut the Flutter client's memory use by over 30% (89MB to 62MB) with widget refactoring and lazy loading
 
-### Mobile & Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<br/>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-002E63?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a name="projects"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg" />
+  <img src="assets/projects-light.svg" alt="Side projects, taken seriously." width="100%" />
+</picture>
+</div>
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
+### [PulseWatch](https://github.com/Manpreet-Singh-Kamboj/PulseWatch)
+Uptime monitoring with AI incident summaries. 2nd runner-up at Startup Build Hackathon 2026, backend built in 48 hours.
 
-## 📊 GitHub Activity
+- Cron-scheduled website, API and SSL checks that classify targets as UP, DOWN or DEGRADED and track each incident from outage to recovery
+- OpenAI incident summaries and a streaming dashboard chat assistant, with live check events pushed over Server-Sent Events
+- JWT cookie sessions, role-based access, email OTP and Google Sign-In, with alerts by email, Twilio SMS, Slack and Discord
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manpreet-Singh-Kamboj&layout=compact" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,redis,docker&perline=7" height="40" alt="React, TypeScript, Node.js, Express, MongoDB, Redis, Docker" />
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Manpreet-Singh-Kamboj" />
-</p>
+### [Qure](https://github.com/Manpreet-Singh-Kamboj/Qure)
+Real-time queue and token management for clinics, with a React Native app and a Node.js backend.
 
----
+- Socket.IO rooms push live queue updates to patients and staff, behind JWT authentication and role-based authorization
+- Atomic PostgreSQL transactions keep token assignment consistent
+- BullMQ and Redis handle background uploads, cutting image upload latency from about 13s to under 500ms
 
-## 🎯 What I’m Looking For
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,postgres,redis,docker&perline=6" height="40" alt="Node.js, TypeScript, React Native, PostgreSQL, Redis, Docker" />
 
-I am actively seeking **CO-OP / Internship roles** in:
-- Backend Development
-- Full Stack Development
-- Mobile Development (React Native / Android / iOS)
+### [Skin Lesion Classification](https://github.com/Manpreet-Singh-Kamboj)
+Multi-task EfficientNet-B4 model for skin lesion diagnosis and melanoma detection on the imbalanced HAM10000 dataset.
 
-I’m excited to work on teams where I can:
-- Build scalable, real-world systems
-- Write production-quality code
-- Learn from experienced engineers
+- Focal loss and weighted sampling reached 0.753 melanoma recall and 0.928 AUC-ROC
+- Deep-ensemble uncertainty estimates and Grad-CAM++ explanations, served through a Flask REST API to a React (Vite) frontend
 
----
+<img src="https://skillicons.dev/icons?i=python,pytorch,flask,react,vite&perline=5" height="40" alt="Python, PyTorch, Flask, React, Vite" />
 
-## 📫 Contact
+<br/>
 
-- 📧 Email: **manpreetkamboj60.net@gmail.com**
-- 💼 LinkedIn: [https://linkedin.com/in/manpreet-swe](https://www.linkedin.com/in/manpreet-swe)
-- 🌐 Portfolio: [https://msinghdev.vercel.app](https://msinghdev.vercel.app)
+<a name="skills"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg" />
+  <img src="assets/skills-light.svg" alt="The tools I reach for." width="100%" />
+</picture>
 
----
+<sub>LANGUAGES</sub><br/>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,bash&perline=6" alt="Java, Python, TypeScript, JavaScript, C, Bash" />
 
-⚡ *Fun fact:* I enjoy debugging real-time systems more than writing them 😄
+<sub>WEB AND APIS</sub><br/>
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,flask&perline=6" alt="Spring Boot, React, Next.js, Node.js, Express, Flask" />
+
+<sub>CLOUD AND DATA</sub><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,spark,postgres,mongodb&perline=6" alt="AWS, GCP, Azure, Spark, PostgreSQL, MongoDB" />
+
+<sub>TOOLS</sub><br/>
+<img src="https://skillicons.dev/icons?i=redis,docker,git,postman,jest,vitest&perline=6" alt="Redis, Docker, Git, Postman, Jest, Vitest" />
+
+</div>
+
+<br/>
+
+<a name="contact"></a>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg" />
+  <img src="assets/contact-light.svg" alt="Let's talk. Backend, full-stack and data roles starting 2027." width="100%" />
+</picture>
+
+<a href="mailto:manpreet.swe@outlook.com">manpreet.swe@outlook.com</a>
+
+<a href="https://linkedin.com/in/manpreet-swe">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://msinghdev.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://github.com/Manpreet-Singh-Kamboj">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.leetcode.com/manpreetsingh2003">LeetCode</a>
+
+</div>
