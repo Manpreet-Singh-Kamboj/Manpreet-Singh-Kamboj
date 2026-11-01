@@ -82,14 +82,6 @@ and Spring Boot APIs serving geo-targeted content to 100K+ sales reps.
 - Designed a cross-cloud sync from a Fabric Delta Table to Cloud SQL, incremental by timestamp, through a serverless GCP Cloud Function
 - Documented the legacy Reassignment Shipments codebase for future work and production troubleshooting
 
-```mermaid
-flowchart LR
-    A["POS data from 1,100+ stores"] --> B["PySpark ETL on Microsoft Fabric"]
-    B --> C[("Delta Table")]
-    C -->|"incremental by timestamp"| D["GCP Cloud Function"]
-    D --> E[("Cloud SQL")]
-```
-
 </details>
 
 <details>
