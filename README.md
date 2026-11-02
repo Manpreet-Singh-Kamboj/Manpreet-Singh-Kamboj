@@ -84,7 +84,7 @@ and Spring Boot APIs serving geo-targeted content to 100K+ sales reps.
 
 </details>
 
-<details>
+<details open>
 <summary><b>Wilfrid Laurier University</b> &nbsp;·&nbsp; Instructional Assistant, System Programming &nbsp;·&nbsp; <sub>Jan – Apr 2026</sub></summary>
 <br/>
 
@@ -92,7 +92,7 @@ and Spring Boot APIs serving geo-targeted content to 100K+ sales reps.
 
 </details>
 
-<details>
+<details open>
 <summary><b>CoreAI Technologies</b> &nbsp;·&nbsp; Full-Stack Software Developer &nbsp;·&nbsp; <sub>May – Oct 2025</sub></summary>
 <br/>
 
@@ -101,7 +101,7 @@ and Spring Boot APIs serving geo-targeted content to 100K+ sales reps.
 
 </details>
 
-<details>
+<details open>
 <summary><b>SalesCode.ai</b> &nbsp;·&nbsp; Software Engineer Intern &nbsp;·&nbsp; <sub>Jun – Dec 2024</sub></summary>
 <br/>
 
