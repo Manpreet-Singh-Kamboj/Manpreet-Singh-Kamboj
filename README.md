@@ -16,7 +16,7 @@
 <a href="https://msinghdev.vercel.app">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/manpreet-swe">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:manpreet.swe@outlook.com">Email</a> &nbsp;·&nbsp;
-<a href="https://www.leetcode.com/Manpeet_03">LeetCode</a>
+<a href="https://www.leetcode.com/Manpreet_03">LeetCode</a>
 
 <br/><br/>
 
@@ -234,9 +234,9 @@ SQL, Bash/Zsh, Vue.js, Svelte, Redux, TanStack Query, Socket.IO, REST APIs, Micr
 
 <br/><br/>
 
-<a href="https://www.leetcode.com/Manpeet_03">
+<a href="https://www.leetcode.com/Manpreet_03">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Manpeet_03?ext=heatmap&border=0&radius=14&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Manpreet_03?ext=heatmap&border=0&radius=14&theme=dark" />
   <img src="https://leetcard.jacoblin.cool/Manpreet_03?ext=heatmap&border=0&radius=14&theme=light" alt="LeetCode stats and activity heatmap" width="520" />
 </picture>
 </a>
